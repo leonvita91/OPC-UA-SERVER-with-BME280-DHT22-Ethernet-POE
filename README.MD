@@ -76,7 +76,7 @@ Project is created in 2021:
 **Clone OPC-UA Project & Building**
 
 * `cd ~/esp/esp-idf/examples/`
-* `git clone https://gitlab.hzdr.de/alqase03/opc-ua-with-bme280.git`
+* `git clone https://github.com/leonvita91/OPC-UA-SERVER-with-BME280-DHT22-Ethernet-POE.git`
 *  `cd opc-ua-with-bme280/`
 *  `idf.py build`
 *  `idf.py flash && idf.py monitor`
